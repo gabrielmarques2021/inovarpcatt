@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.foto{
+    width: 50%; 
+}
+
+.imagem{
+    text-align: center;
+}
+
+.info{
+    font-size: 30px;
+}
+
+.topo{
+    text-align: center;
+    height: 100px;
+    background-color: rgb(200, 255, 255);
+    padding: 10px;
+}
